@@ -67,6 +67,3 @@ We welcome contributions from the community. To contribute to Healthcare.AI, fol
 4. Push to your branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## Contact
-
-Have questions or feedback? Contact us at h3althcar3.ai@gmail.com.
